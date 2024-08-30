@@ -1,0 +1,8 @@
+{
+	"__comment": "Model by Sphax - BDcraft.net.",
+	"parent": "bomesoplenty:item/_bdc/sign",
+    "textures": {
+        "particle": "biomesoplenty:block/redwood_planks",
+		"texture": "biomesoplenty:item/redwood_sign"
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent":"item/generated",
+  "textures": {
+    "layer0":"ironjetpacks:items/capacitor",
+    "layer1":"ironjetpacks:items/capacitor_overlay"
+  }
+}

@@ -1,0 +1,6 @@
+{
+	"multipart": [
+		{ "apply": { "model": "projecte:block/interdiction_torch" } },
+		{ "apply": { "model": "projecte:block/_bdc/interdiction_torch_flame" } }
+	]
+}

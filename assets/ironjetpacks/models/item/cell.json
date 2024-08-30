@@ -1,0 +1,7 @@
+{
+  "parent":"item/generated",
+  "textures": {
+    "layer0":"ironjetpacks:items/cell",
+    "layer1":"ironjetpacks:items/cell_overlay"
+  }
+}

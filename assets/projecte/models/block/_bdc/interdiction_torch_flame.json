@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/_bdc/flame",
+	"textures": {
+		"fire": "projecte:block/_bdc/interdiction_torch_flame"
+	}
+}
